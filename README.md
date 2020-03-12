@@ -1,2 +1,2 @@
-# Research Obective:\
+# Research Obective:
 This paper investigates research area of safety and comfort of all passengers in the smart vehicle. Passengers should feel comfortable and at ease even if there is some failure has occurred in the IoT based Smart vehicle system. We assume that safety concern leads to uncomfortability and therefore these 2 topics go hand in hand. There must be way if the network or communication is cut off. The passengers of the vehicle should not wait for support and fix for hours. Artificial Intelligence and Big Data Analytics bring a drastic change providing services to the users with the best experiences. Safety and Comfort for a child is also one of the areas for research in this paper.
